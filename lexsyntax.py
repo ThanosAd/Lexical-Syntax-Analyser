@@ -1,6 +1,6 @@
-
-# PAPAIOANNOU GIANNIS A.M 2794 , username : cse42794
-# ANTAMIS THANASIS A.M 2639, username : cse42639
+# ANTAMIS THANASIS 
+# PAPAIOANNOU GIANNIS
+#Simple lexical-syntax analyser for the EEL language
 
 
 import sys
