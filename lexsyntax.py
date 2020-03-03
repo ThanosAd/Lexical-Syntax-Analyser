@@ -6,7 +6,7 @@
 import sys
 import fileinput
 
-print "\n**** LEXICAL/SYNTAX ANALYSER ****\n\nPlease enter a file name: ",
+print "\n**** LEXICAL/SYNTAX ANALYSER ****\n\nPlease enter a file name: "
 filename = raw_input()
 myfile = open(filename)
 temp = myfile.read(1)
